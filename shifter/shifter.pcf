@@ -1,0 +1,19 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Mon Jun 24 17:15:17 2024
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "output<0>" LOCATE = SITE "Y13" LEVEL 1;
+COMP "output<1>" LOCATE = SITE "AD12" LEVEL 1;
+COMP "iEN" LOCATE = SITE "Y8" LEVEL 1;
+COMP "output<2>" LOCATE = SITE "AA11" LEVEL 1;
+COMP "output<3>" LOCATE = SITE "AA10" LEVEL 1;
+COMP "output<4>" LOCATE = SITE "AA9" LEVEL 1;
+COMP "output<5>" LOCATE = SITE "AB9" LEVEL 1;
+COMP "output<6>" LOCATE = SITE "AB8" LEVEL 1;
+COMP "output<7>" LOCATE = SITE "AB7" LEVEL 1;
+COMP "iSEL1" LOCATE = SITE "AA22" LEVEL 1;
+COMP "iSEL2" LOCATE = SITE "AA21" LEVEL 1;
+NET "iCLK_BUFGP/IBUFG" BEL "iCLK_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

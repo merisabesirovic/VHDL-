@@ -1,0 +1,15 @@
+V3 7
+FL "C:/Users/J/Desktop/vhdl vezba/shifter/shifter/clock_divider.vhd" 2024/06/24.17:12:32 P.20131013
+EN work/clock_divider 1719242097 \
+      FL "C:/Users/J/Desktop/vhdl vezba/shifter/shifter/clock_divider.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/clock_divider/Behavioral 1719242098 \
+      FL "C:/Users/J/Desktop/vhdl vezba/shifter/shifter/clock_divider.vhd" \
+      EN work/clock_divider 1719242097
+FL "C:/Users/J/Desktop/vhdl vezba/shifter/shifter/shifter.vhd" 2024/06/24.17:14:49 P.20131013
+EN work/shifter 1719242099 \
+      FL "C:/Users/J/Desktop/vhdl vezba/shifter/shifter/shifter.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/shifter/Behavioral 1719242100 \
+      FL "C:/Users/J/Desktop/vhdl vezba/shifter/shifter/shifter.vhd" \
+      EN work/shifter 1719242099 CP clock_divider

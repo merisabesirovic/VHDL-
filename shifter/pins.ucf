@@ -1,0 +1,11 @@
+net iEN loc = Y8;
+net iSEL1 loc = AA22;
+net iSEL2 loc = AA21;
+net output[7] loc = AB7 ;
+net output[6] loc = AB8;
+net output[5] loc = AB9;
+net output[4] loc = AA9;
+net output[3] loc = AA10;
+net output[2] loc = AA11;
+net output[1] loc = AD12;
+net output[0] loc = Y13;
