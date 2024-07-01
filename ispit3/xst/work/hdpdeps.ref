@@ -1,0 +1,15 @@
+V3 7
+FL "C:/Users/J/Desktop/vhdl vezba/ispit/ispit3/clock_divider.vhd" 2024/06/24.14:46:42 P.20131013
+EN work/clock_divider 1719233279 \
+      FL "C:/Users/J/Desktop/vhdl vezba/ispit/ispit3/clock_divider.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/clock_divider/Behavioral 1719233280 \
+      FL "C:/Users/J/Desktop/vhdl vezba/ispit/ispit3/clock_divider.vhd" \
+      EN work/clock_divider 1719233279
+FL "C:/Users/J/Desktop/vhdl vezba/ispit/ispit3/ispit3.vhd" 2024/06/24.14:45:50 P.20131013
+EN work/ispit3 1719233281 \
+      FL "C:/Users/J/Desktop/vhdl vezba/ispit/ispit3/ispit3.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/ispit3/Behavioral 1719233282 \
+      FL "C:/Users/J/Desktop/vhdl vezba/ispit/ispit3/ispit3.vhd" EN work/ispit3 1719233281 \
+      CP clock_divider
