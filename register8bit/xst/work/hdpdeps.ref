@@ -1,0 +1,15 @@
+V3 7
+FL "C:/Users/J/Desktop/vhdl vezba/registar8bit/register8bit/clock_divider.vhd" 2024/06/25.17:29:22 P.20131013
+EN work/clock_Divider 1719332513 \
+      FL "C:/Users/J/Desktop/vhdl vezba/registar8bit/register8bit/clock_divider.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Clock_Divider/Behavioral 1719332514 \
+      FL "C:/Users/J/Desktop/vhdl vezba/registar8bit/register8bit/clock_divider.vhd" \
+      EN work/clock_Divider 1719332513
+FL "C:/Users/J/Desktop/vhdl vezba/registar8bit/register8bit/register8bit.vhd" 2024/06/25.18:21:45 P.20131013
+EN work/register8bit 1719332515 \
+      FL "C:/Users/J/Desktop/vhdl vezba/registar8bit/register8bit/register8bit.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/register8bit/Behavioral 1719332516 \
+      FL "C:/Users/J/Desktop/vhdl vezba/registar8bit/register8bit/register8bit.vhd" \
+      EN work/register8bit 1719332515 CP clock_divider

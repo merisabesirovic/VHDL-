@@ -1,0 +1,21 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Tue Jun 25 18:41:25 2024
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "iCLK" LOCATE = SITE "AE14" LEVEL 1;
+COMP "shiftleft" LOCATE = SITE "W12" LEVEL 1;
+COMP "output<0>" LOCATE = SITE "AA10" LEVEL 1;
+COMP "output<1>" LOCATE = SITE "AA11" LEVEL 1;
+COMP "output<2>" LOCATE = SITE "AD12" LEVEL 1;
+COMP "output<3>" LOCATE = SITE "Y13" LEVEL 1;
+COMP "shiftright" LOCATE = SITE "W13" LEVEL 1;
+COMP "iLOAD" LOCATE = SITE "Y12" LEVEL 1;
+COMP "aData<0>" LOCATE = SITE "Y8" LEVEL 1;
+COMP "aData<1>" LOCATE = SITE "Y9" LEVEL 1;
+COMP "shift" LOCATE = SITE "W11" LEVEL 1;
+COMP "aData<2>" LOCATE = SITE "Y10" LEVEL 1;
+COMP "aData<3>" LOCATE = SITE "Y11" LEVEL 1;
+NET "iCLK_BUFGP/IBUFG" BEL "iCLK_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

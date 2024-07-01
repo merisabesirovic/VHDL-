@@ -1,0 +1,16 @@
+net iLOAD loc = Y12;
+net shift loc = W11;
+net shiftleft loc = W12;
+net shiftright loc= W13;
+
+
+net "output[0]" loc = AA10;
+net "output[1]" loc = AA11;
+net "output[2]" loc = AD12;
+net "output[3]" loc = Y13;
+net iCLK loc = AE14;
+
+net "aData[0]" loc = Y8;
+net "aData[1]" loc = Y9;
+net "aData[2]" loc = Y10;
+net "aData[3]" loc = Y11;
