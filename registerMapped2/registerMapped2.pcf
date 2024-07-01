@@ -1,0 +1,26 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Thu Jun 27 23:11:13 2024
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "iD<2>" LOCATE = SITE "Y10" LEVEL 1;
+COMP "iD<3>" LOCATE = SITE "Y11" LEVEL 1;
+COMP "iD<4>" LOCATE = SITE "Y12" LEVEL 1;
+COMP "iD<5>" LOCATE = SITE "W11" LEVEL 1;
+COMP "iD<6>" LOCATE = SITE "W12" LEVEL 1;
+COMP "iD<7>" LOCATE = SITE "W13" LEVEL 1;
+COMP "iCLK" LOCATE = SITE "AE14" LEVEL 1;
+COMP "output<0>" LOCATE = SITE "Y13" LEVEL 1;
+COMP "output<1>" LOCATE = SITE "AD12" LEVEL 1;
+COMP "iEN" LOCATE = SITE "AA22" LEVEL 1;
+COMP "output<2>" LOCATE = SITE "AA11" LEVEL 1;
+COMP "output<3>" LOCATE = SITE "AA10" LEVEL 1;
+COMP "output<4>" LOCATE = SITE "AA9" LEVEL 1;
+COMP "output<5>" LOCATE = SITE "AB9" LEVEL 1;
+COMP "output<6>" LOCATE = SITE "AB8" LEVEL 1;
+COMP "output<7>" LOCATE = SITE "AB7" LEVEL 1;
+COMP "iD<0>" LOCATE = SITE "Y8" LEVEL 1;
+COMP "iD<1>" LOCATE = SITE "Y9" LEVEL 1;
+NET "iCLK_BUFGP/IBUFG" BEL "iCLK_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

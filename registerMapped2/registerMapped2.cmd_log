@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "C:/Users/J/Desktop/vhdl vezba/registerMapped2/registerMapped2/registerMapped2.xst" -ofn "C:/Users/J/Desktop/vhdl vezba/registerMapped2/registerMapped2/registerMapped2.syr" 
+xst -intstyle ise -ifn "C:/Users/J/Desktop/vhdl vezba/registerMapped2/registerMapped2/registerMapped2.xst" -ofn "C:/Users/J/Desktop/vhdl vezba/registerMapped2/registerMapped2/registerMapped2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s1500-fg676-4 "registerMapped2.ngc" registerMapped2.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o registerMapped2_map.ncd registerMapped2.ngd registerMapped2.pcf 
+par -w -intstyle ise -ol high -t 1 registerMapped2_map.ncd registerMapped2.ncd registerMapped2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml registerMapped2.twx registerMapped2.ncd -o registerMapped2.twr registerMapped2.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f registerMapped2.ut registerMapped2.ncd 

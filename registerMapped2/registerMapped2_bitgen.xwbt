@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\J\Desktop\vhdl vezba\registerMapped2\registerMapped2\registerMapped2.ncd
+OUTFILE=C:\Users\J\Desktop\vhdl vezba\registerMapped2\registerMapped2\registerMapped2.bit
+FAMILY=Spartan3
+PART=xc3s1500-4fg676
+WORKINGDIR=C:\Users\J\Desktop\vhdl vezba\registerMapped2\registerMapped2
+LICENSE=WebPack
+USER_INFO=213043781_0_0_554
