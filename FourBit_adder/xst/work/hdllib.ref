@@ -1,0 +1,4 @@
+AR sabirac4bit bhv "C:/Users/J/Desktop/vhdl vezba/adder/FourBit_adder/sabirac4bit.vhd" sub00/vhpl01 1719316406
+AR fourbit_adder behavioral "C:/Users/J/Desktop/vhdl vezba/adder/FourBit_adder/FourBit_adder.vhd" sub00/vhpl03 1719316408
+EN fourbit_adder NULL "C:/Users/J/Desktop/vhdl vezba/adder/FourBit_adder/FourBit_adder.vhd" sub00/vhpl02 1719316407
+EN sabirac4bit NULL "C:/Users/J/Desktop/vhdl vezba/adder/FourBit_adder/sabirac4bit.vhd" sub00/vhpl00 1719316405

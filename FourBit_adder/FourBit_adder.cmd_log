@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "C:/Users/J/Desktop/vhdl vezba/adder/FourBit_adder/FourBit_adder.xst" -ofn "C:/Users/J/Desktop/vhdl vezba/adder/FourBit_adder/FourBit_adder.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc pins.ucf -p xc3s1500-fg676-4 "FourBit_adder.ngc" FourBit_adder.ngd  
+map -intstyle ise -p xc3s1500-fg676-4 -cm area -ir off -pr off -c 100 -o FourBit_adder_map.ncd FourBit_adder.ngd FourBit_adder.pcf 
+par -w -intstyle ise -ol high -t 1 FourBit_adder_map.ncd FourBit_adder.ncd FourBit_adder.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml FourBit_adder.twx FourBit_adder.ncd -o FourBit_adder.twr FourBit_adder.pcf -ucf pins.ucf 
+bitgen -intstyle ise -f FourBit_adder.ut FourBit_adder.ncd 
