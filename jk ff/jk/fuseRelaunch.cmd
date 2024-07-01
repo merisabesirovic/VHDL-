@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/J/Desktop/vhdl vezba/jk ff/jk/tb_isim_beh.exe" -prj "C:/Users/J/Desktop/vhdl vezba/jk ff/jk/tb_beh.prj" "work.tb" 
