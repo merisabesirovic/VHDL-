@@ -1,0 +1,23 @@
+# Definisanje pinova za ulazni signal iD
+NET "iD[0]" LOC = "Y8";
+NET "iD[1]" LOC = "Y9";
+NET "iD[2]" LOC = "Y10";
+NET "iD[3]" LOC = "Y11";
+NET "iD[4]" LOC = "Y12";
+NET "iD[5]" LOC = "W11";
+NET "iD[6]" LOC = "W12";
+NET "iD[7]" LOC = "W13";
+
+# Definisanje pinova za izlazni signal output
+NET "output[0]" LOC = "Y13";
+NET "output[1]" LOC = "AD12";
+NET "output[2]" LOC = "AA11";
+NET "output[3]" LOC = "AA10";
+NET "output[4]" LOC = "AA9";
+NET "output[5]" LOC = "AB9";
+NET "output[6]" LOC = "AB8";
+NET "output[7]" LOC = "AB7";
+
+# Definisanje pinova za iCLK i iEN signale
+NET "iCLK" LOC = "AE14";
+NET "iEN" LOC = "AA22";

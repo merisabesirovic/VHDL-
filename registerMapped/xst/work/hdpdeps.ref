@@ -1,0 +1,22 @@
+V3 11
+FL "C:/Users/J/Desktop/vhdl vezba/registerMapped/registerMapped/clock_divider.vhd" 2024/06/27.22:27:52 P.20131013
+EN work/Clock_Divider 1719520738 \
+      FL "C:/Users/J/Desktop/vhdl vezba/registerMapped/registerMapped/clock_divider.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/Clock_Divider/Behavioral 1719520739 \
+      FL "C:/Users/J/Desktop/vhdl vezba/registerMapped/registerMapped/clock_divider.vhd" \
+      EN work/Clock_Divider 1719520738
+FL "C:/Users/J/Desktop/vhdl vezba/registerMapped/registerMapped/register1bit.vhd" 2024/06/27.22:38:10 P.20131013
+EN work/register1bit 1719520740 \
+      FL "C:/Users/J/Desktop/vhdl vezba/registerMapped/registerMapped/register1bit.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/register1bit/Behavioral 1719520741 \
+      FL "C:/Users/J/Desktop/vhdl vezba/registerMapped/registerMapped/register1bit.vhd" \
+      EN work/register1bit 1719520740
+FL "C:/Users/J/Desktop/vhdl vezba/registerMapped/registerMapped/registerMapped.vhd" 2024/06/27.22:38:50 P.20131013
+EN work/registerMapped 1719520742 \
+      FL "C:/Users/J/Desktop/vhdl vezba/registerMapped/registerMapped/registerMapped.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/registerMapped/Behavioral 1719520743 \
+      FL "C:/Users/J/Desktop/vhdl vezba/registerMapped/registerMapped/registerMapped.vhd" \
+      EN work/registerMapped 1719520742 CP clock_divider CP register1bit

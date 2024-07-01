@@ -1,0 +1,6 @@
+AR clock_divider behavioral "C:/Users/J/Desktop/vhdl vezba/registerMapped/registerMapped/clock_divider.vhd" sub00/vhpl01 1719520739
+EN clock_divider NULL "C:/Users/J/Desktop/vhdl vezba/registerMapped/registerMapped/clock_divider.vhd" sub00/vhpl00 1719520738
+AR registermapped behavioral "C:/Users/J/Desktop/vhdl vezba/registerMapped/registerMapped/registerMapped.vhd" sub00/vhpl05 1719520743
+EN register1bit NULL "C:/Users/J/Desktop/vhdl vezba/registerMapped/registerMapped/register1bit.vhd" sub00/vhpl02 1719520740
+AR register1bit behavioral "C:/Users/J/Desktop/vhdl vezba/registerMapped/registerMapped/register1bit.vhd" sub00/vhpl03 1719520741
+EN registermapped NULL "C:/Users/J/Desktop/vhdl vezba/registerMapped/registerMapped/registerMapped.vhd" sub00/vhpl04 1719520742
