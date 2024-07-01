@@ -1,0 +1,134 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.17 secs
+ 
+--> Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.17 secs
+ 
+--> Reading design: FourBit_adder.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) Design Hierarchy Analysis
+  4) HDL Analysis
+  5) HDL Synthesis
+     5.1) HDL Synthesis Report
+  6) Advanced HDL Synthesis
+     6.1) Advanced HDL Synthesis Report
+  7) Low Level Synthesis
+  8) Partition Report
+  9) Final Report
+	9.1) Device utilization summary
+	9.2) Partition Resource Summary
+	9.3) TIMING REPORT
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "FourBit_adder.prj"
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "FourBit_adder"
+Output Format                      : NGC
+Target Device                      : xc3s1500-4-fg676
+
+---- Source Options
+Top Module Name                    : FourBit_adder
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Mux Style                          : Auto
+Decoder Extraction                 : YES
+Priority Encoder Extraction        : Yes
+Shift Register Extraction          : YES
+Logical Shifter Extraction         : YES
+XOR Collapsing                     : YES
+ROM Style                          : Auto
+Mux Extraction                     : Yes
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Multiplier Style                   : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 500
+Add Generic Clock Buffer(BUFG)     : 8
+Register Duplication               : YES
+Slice Packing                      : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Yes
+Use Synchronous Set                : Yes
+Use Synchronous Reset              : Yes
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+Verilog 2001                       : YES
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/sabirac4bit.vhd" in Library work.
+Architecture bhv of Entity sabirac4bit is up to date.
+Compiling vhdl file "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" in Library work.
+ERROR:HDLParsers:526 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 38. Non array type std_logic can not have a index constraint.
+ERROR:HDLParsers:3010 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 42. Entity FourBit_adder does not exist.
+ERROR:HDLParsers:3312 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 43. Undefined symbol 'std_logic_vector'.
+ERROR:HDLParsers:1209 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 43. std_logic_vector: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 45. Undefined symbol 'std_logic'.
+ERROR:HDLParsers:1209 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 45. std_logic: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 55. Undefined symbol 'carry'.
+ERROR:HDLParsers:1209 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 55. carry: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3313 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 55. Undefined symbol 'Cin'.  Should it be: in, min or Can?
+ERROR:HDLParsers:1209 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 55. Cin: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 57. Undefined symbol 'X'.
+ERROR:HDLParsers:1209 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 57. X: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 58. Undefined symbol 'Y'.
+ERROR:HDLParsers:1209 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 58. Y: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3312 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 61. Undefined symbol 'sum'.
+ERROR:HDLParsers:1209 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 61. sum: Undefined symbol (last report in this block)
+ERROR:HDLParsers:3313 - "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" Line 83. Undefined symbol 'Cout'.  Should it be: out?
+--> 
+
+Total memory usage is 4495276 kilobytes
+
+Number of errors   :   17 (   0 filtered)
+Number of warnings :    0 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

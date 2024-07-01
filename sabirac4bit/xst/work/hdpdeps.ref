@@ -1,0 +1,15 @@
+V3 7
+FL "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" 2024/06/25.13:13:25 P.20131013
+EN work/FourBit_adder 0 \
+      FL "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/FourBit_adder/Behavioral 0 \
+      FL "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.vhd" \
+      EN work/FourBit_adder 0 CP sabirac4bit
+FL "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/sabirac4bit.vhd" 2024/06/25.13:45:40 P.20131013
+EN work/sabirac4bit 1719316161 \
+      FL "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/sabirac4bit.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/sabirac4bit/bhv 1719316162 \
+      FL "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/sabirac4bit.vhd" \
+      EN work/sabirac4bit 1719316161

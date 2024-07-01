@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\J\Desktop\vhdl vezba\vezba\sabirac4bit\sabirac4bit.ncd
+OUTFILE=C:\Users\J\Desktop\vhdl vezba\vezba\sabirac4bit\sabirac4bit.bit
+FAMILY=Spartan3
+PART=xc3s1500-4fg676
+WORKINGDIR=C:\Users\J\Desktop\vhdl vezba\vezba\sabirac4bit
+LICENSE=WebPack
+USER_INFO=213043781_0_0_554

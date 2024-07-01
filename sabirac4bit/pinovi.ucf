@@ -1,0 +1,19 @@
+net "X[0]" loc = Y8;
+net "X[1]" loc = Y9;
+net "X[2]" loc = Y10;
+net "X[3]" loc = Y11;
+
+net "Y[0]" loc = Y12;
+net "Y[1]" loc = W11;
+net "Y[2]" loc = W12;
+net "Y[3]" loc = W13;
+
+
+net "sum[3]" loc = AB7;
+net "sum[2]" loc = AB8;
+net "sum[1]" loc = AB9;
+net "sum[0]" loc = AA9;
+
+net Cin loc = AA22;
+net Cout loc = AA11;
+

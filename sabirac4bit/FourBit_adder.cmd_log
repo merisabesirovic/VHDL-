@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.xst" -ofn "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.syr" 
+xst -intstyle ise -ifn "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.xst" -ofn "C:/Users/J/Desktop/vhdl vezba/vezba/sabirac4bit/FourBit_adder.syr" 
