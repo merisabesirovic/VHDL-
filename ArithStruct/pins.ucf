@@ -1,0 +1,23 @@
+# Input registers
+NET "ireg[0]" LOC = "Y8";
+NET "ireg[1]" LOC = "Y9";
+NET "ireg[2]" LOC = "Y10";
+NET "ireg[3]" LOC = "Y11";
+NET "ireg[4]" LOC = "Y12";
+NET "ireg[5]" LOC = "W11";
+
+# Clock input
+NET "iCLK" LOC = "AE14";
+
+# Output results
+NET "orez[0]" LOC = "AB7";
+NET "orez[1]" LOC = "AB8";
+NET "orez[2]" LOC = "AB9";
+
+# Output carry
+NET "oCarry" LOC = "AA10";
+
+# Enable input
+NET "iEN" LOC = "W12";
+
+NET "iEN" CLOCK_DEDICATED_ROUTE = FALSE;

@@ -1,0 +1,12 @@
+EN register3bit NULL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/register3bit.vhd" sub00/vhpl02 1719838170
+EN arithstruct NULL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/ArithStruct.vhd" sub00/vhpl10 1719838178
+AR shifterleft behavioral "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/shifterLeft.vhd" sub00/vhpl07 1719838175
+AR clock_divider behavioral "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/clock_divider.vhd" sub00/vhpl01 1719838169
+AR arithstruct behavioral "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/ArithStruct.vhd" sub00/vhpl11 1719838179
+EN adder3bit NULL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/adder3bit.vhd" sub00/vhpl04 1719838172
+EN clock_divider NULL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/clock_divider.vhd" sub00/vhpl00 1719838168
+AR register3bit behavioral "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/register3bit.vhd" sub00/vhpl03 1719838171
+AR adder3bit behavioral "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/adder3bit.vhd" sub00/vhpl05 1719838173
+EN comparator NULL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/comparator.vhd" sub00/vhpl08 1719838176
+EN shifterleft NULL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/shifterLeft.vhd" sub00/vhpl06 1719838174
+AR comparator behavioral "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/comparator.vhd" sub00/vhpl09 1719838177

@@ -1,0 +1,44 @@
+V3 23
+FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/adder3bit.vhd" 2024/06/28.16:50:02 P.20131013
+EN work/adder3bit 1719838172 \
+      FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/adder3bit.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/adder3bit/Behavioral 1719838173 \
+      FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/adder3bit.vhd" \
+      EN work/adder3bit 1719838172
+FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/ArithStruct.vhd" 2024/06/28.16:41:05 P.20131013
+EN work/ArithStruct 1719838178 \
+      FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/ArithStruct.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/ArithStruct/Behavioral 1719838179 \
+      FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/ArithStruct.vhd" \
+      EN work/ArithStruct 1719838178 CP clock_divider CP register3bit CP adder3bit \
+      CP shifterLeft CP comparator
+FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/clock_divider.vhd" 2024/06/28.09:20:49 P.20131013
+EN work/clock_divider 1719838168 \
+      FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/clock_divider.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181
+AR work/clock_divider/Behavioral 1719838169 \
+      FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/clock_divider.vhd" \
+      EN work/clock_divider 1719838168
+FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/comparator.vhd" 2024/06/28.16:50:02 P.20131013
+EN work/comparator 1719838176 \
+      FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/comparator.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/comparator/Behavioral 1719838177 \
+      FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/comparator.vhd" \
+      EN work/comparator 1719838176
+FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/register3bit.vhd" 2024/06/28.16:41:26 P.20131013
+EN work/register3bit 1719838170 \
+      FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/register3bit.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/register3bit/Behavioral 1719838171 \
+      FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/register3bit.vhd" \
+      EN work/register3bit 1719838170
+FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/shifterLeft.vhd" 2024/06/28.16:49:28 P.20131013
+EN work/shifterLeft 1719838174 \
+      FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/shifterLeft.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/shifterLeft/Behavioral 1719838175 \
+      FL "C:/Users/J/Desktop/vhdl vezba/sesta lab/ArithStruct/shifterLeft.vhd" \
+      EN work/shifterLeft 1719838174

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\J\Desktop\vhdl vezba\sesta lab\ArithStruct\ArithStruct.ncd
+OUTFILE=C:\Users\J\Desktop\vhdl vezba\sesta lab\ArithStruct\ArithStruct.bit
+FAMILY=Spartan3
+PART=xc3s1500-4fg676
+WORKINGDIR=C:\Users\J\Desktop\vhdl vezba\sesta lab\ArithStruct
+LICENSE=WebPack
+USER_INFO=213043781_0_0_554
